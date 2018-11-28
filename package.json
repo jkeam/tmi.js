@@ -53,8 +53,8 @@
     "url": "https://github.com/tmijs/tmi.js/issues"
   },
   "dependencies": {
-    "request": "2.86.0",
-    "ws": "5.1.1"
+    "request": "2.88.0",
+    "ws": "6.1.2"
   },
   "devDependencies": {
     "@babel/cli": "7.1.5",
@@ -63,13 +63,13 @@
     "babelify": "10.0.0",
     "browserify": "16.2.3",
     "hook-std": "0.2.0",
-    "istanbul": "0.4.2",
+    "istanbul": "0.4.5",
     "mkdirp": "0.5.1",
     "mocha": "2.2.5",
     "npm-run-all": "4.1.5",
-    "rimraf": "2.5.2",
-    "should": "7.0.4",
-    "uglify-js": "2.6.2"
+    "rimraf": "2.6.2",
+    "should": "13.2.3",
+    "uglify-js": "3.4.9"
   },
   "browser": {
     "ws": false,
