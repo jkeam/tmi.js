@@ -5,7 +5,9 @@
 
 The best place to start with tmi.js is our [documentation page](https://docs.tmijs.org/).
 
-This module currently support [Node.js 4.x](https://nodejs.org/en/download/) and every browser that support WebSockets. The current WebSocket protocol being used by this module is **HyBi drafts 13-17**.
+This module currently support [Node.js 11.3.0](https://nodejs.org/en/download/). The current WebSocket protocol being used by this module is **HyBi drafts 13-17**.
+
+All browser support is dropped and this is Node only.  Also `yarn` is highly recommended over `npm` as `npm` sometimes has problems installing all the dependencies.
 
 ## Install
 
